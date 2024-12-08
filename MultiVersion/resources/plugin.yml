@@ -1,0 +1,6 @@
+name: AstralPractice-MultiVersion
+version: 1.1.0-IndexDev
+main: IndexDev\MultiVersion\Main
+api: [5.0.0]
+author: IndexDev
+description: Ofrece soporte a distintas versiones 
