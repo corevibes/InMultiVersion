@@ -1,6 +1,6 @@
 # 🌐 Multiversion
 
-**MultiVersionSupport** is an advanced, optimized plugin for **PocketMine-MP API 5** that allows you to **restrict or allow specific versions of the Minecraft Bedrock client**. Ideal for servers that want to maintain compatibility or limit access to unwanted versions.
+**Multiversion** is an advanced, optimized plugin for **PocketMine-MP API 5** that allows you to **restrict or allow specific versions of the Minecraft Bedrock client**. Ideal for servers that want to maintain compatibility or limit access to unwanted versions.
 
 ---
 
