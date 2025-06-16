@@ -1,0 +1,8 @@
+name: Multiversion
+author: corevibess
+
+version: 0.1-BETA
+api: [5.28.2]
+
+website: https://github.com/corevibess/Multiversion
+main: Multiversion\Main
