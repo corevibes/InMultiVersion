@@ -1,0 +1,4 @@
+{
+  "allowed_versions": ["1.16.100", "1.18.12", "1.21.82"],
+  "kick_message": "Your version is not supported on this server. Please use an approved version."
+}
