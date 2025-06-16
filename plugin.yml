@@ -6,3 +6,7 @@ api: [5.28.2]
 
 website: https://github.com/corevibess/Multiversion
 main: Multiversion\Main
+
+permissions:
+  multiversion.reload:
+    default: op
